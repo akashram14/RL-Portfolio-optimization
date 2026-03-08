@@ -37,3 +37,9 @@ same model for portfolio optimization
 
 I.I.D model of returns assumes this - 
 - $x_t = \mu + \epsilon_t$
+
+
+
+Consider two investing -
+- Full reinvesting
+- Constant reinvesting
